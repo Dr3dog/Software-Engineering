@@ -1,0 +1,38 @@
+1. Arduino - https://github.com/topics/arduino
+An open source hardware and software company
+that started up in the early 2000's. I actually have a history with
+these funny little devices. Growing up I went not too far from here
+for a summer camp and one of them involved bringing Arduino computers
+to make easy to comprehend games using "coding", which was just drag
+the box to the proper part of the loop. Great experience with them for
+introducing me to the coding scene even if the exercise back then was
+rudimentary.
+2. Doom 3 - https://github.com/TTimo/doom3.gpl/blob/master/neo/tools/common/PropTree/PropTreeList.cpp
+For those who live under a rock, Doom 3 is a survival horror game
+that came out in the mid to early 2000's that was horrifying and 
+satisfyingly gorey all the same. I chose this game as an example
+becuase when I was scrolling through the PropTreelist page I thought
+it was interesting how a lot of the code in functions was being
+computed by other functions and seeing designing tools like the brush
+and invalidate from PP1 waas pretty neat. Also seeing how their syntax
+system works is always interesting to me.
+3.Warzone 2100 -https://github.com/Warzone2100/warzone2100/tree/master/tools/map
+Like many other games and other pieces of media around the 
+turn of the century, Warzone 2100 was a strategy game that's in
+the setting of the impending doom of a nuclear conflict and the 
+effects on the world and society as a whole. While looking through some
+of the code, I thought that it was pretty neat that the developers left
+a whole series of notes and charts to show what's neccesary for the
+code to function and even has helper tools to assist someone who hasn't
+worked on this game before get started.
+4. Doom for IOS - https://github.com/id-Software/DOOM-iOS
+Being the father to the game mentioned above, I only really mentioned
+this project soley due to the fact that Doom got recreated for some
+of the first IOS devices such as the IPod touch and IPhone. Also a
+pattern I've noticed is that profesionals code is very concise and clear.
+Something I wanna immitate in my code.
+5. Discord Red Bot - https://github.com/Cog-Creators/Red-DiscordBot
+I've always been interested in creating a discord bot for my 
+friend's server to play music and other stuff and seeing how easy it is
+to set up on the manual versus how difficult the backend code is makes 
+me as a user appeciate how much work developers put in.
